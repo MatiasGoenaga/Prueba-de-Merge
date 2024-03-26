@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Almendra:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+:root {
+  font-size: 20px;
+  text-decoration: none;
+  margin: 0;
+}
+body {
+  margin: 10px;
+}
+
+h1 {
+  color: blue;
+  font-size: 3rem;
+  text-align: center;
+  font-family: "Almendra", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.hola {
+  color: brown;
+  font-size: 1.5rem;
+}
+.yo {
+  text-align: end;
+}
+a {
+  text-decoration: none;
+}
+
+.especial {
+  color: rgba(185, 171, 171, 0.6);
+  font-weight: 800;
+  font-style: italic;
+  font-size: 3rem;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+main {
+  background: url(../img/logo_erdosain.png) fixed center no-repeat;
+}
